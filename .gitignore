@@ -1,0 +1,14 @@
+video/
+
+img/Ejercicios/*
+!img/Ejercicios/default.jpg
+
+img/Productos/*
+!img/Productos/default.jpg
+
+img/Socios/*
+!img/Socios/default.jpg
+
+img/Usuarios/*
+!img/Usuarios/default.jpg
+
